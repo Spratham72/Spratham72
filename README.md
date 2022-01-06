@@ -11,7 +11,7 @@ I am Full-Stack Web Developer.  I have a passion for learning and sharing my kno
   <img width="250" align='left' src="https://github.com/Spratham72/Spratham72/blob/main/img/ubuy.jpg?raw=true">
 </p>
  
-### [Clone of Ubuy] (https://smallcaseproject.herokuapp.com/home)
+### <a href="https://smallcaseproject.herokuapp.com/home"> Clone of Ubuy </a>
 
 Ubuy is one of the best online shopping stores to offer a collection ofHandbags, Dresses, Cosmetics, Jewellery, Jeans, T-shirts, and Shoes.
 I have worked on this project during construct week at Masai School.
@@ -33,7 +33,7 @@ I have worked on this project during construct week at Masai School.
   <img width="250" align='left' src="https://github.com/Spratham72/Spratham72/blob/main/img/smallcases.png?raw=true">
 </p>
  
-### [Clone of Smallcases] (https://smallcaseproject.herokuapp.com/home)
+### <a href="https://smallcaseproject.herokuapp.com/home"> Clone of Smallcases </a>
 
 A web application to invest in stocks.
 <br/>
@@ -50,4 +50,7 @@ A web application to invest in stocks.
 - Billing page
 
  ---
+
+
+[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
 

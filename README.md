@@ -30,7 +30,7 @@ I have worked on this project during construct week at Masai School.
 ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/Spratham72/Spratham72/blob/main/img/ubuy.jpg?raw=true">
+  <img width="250" align='left' src="https://github.com/Spratham72/Spratham72/blob/main/img/smallcases.png?raw=true">
 </p>
  
 ### Clone of Smallcases

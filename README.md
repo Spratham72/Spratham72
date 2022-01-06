@@ -8,13 +8,46 @@ I am Full-Stack Web Developer.  I have a passion for learning and sharing my kno
   ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="https://github.com/Spratham72/Spratham72/blob/main/img/ubuy.jpg?raw=true">
 </p>
  
-### Boy Scout Rule
+### Clone of Ubuy
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+Ubuy is one of the best online shopping stores to offer a collection ofHandbags, Dresses, Cosmetics, Jewellery, Jeans, T-shirts, and Shoes.
+I have worked on this project during construct week at Masai School.
+<br/>
+<br/>
+<br/>
+#### Features 
+- Sign-in/Sign-up
+- Adding products to the wishlist
+- Search Engine to search for the products
+- Sorting products according to categories
+- Adding products to the cart
+- Discount for entering valid coupon code on the billing page
+
+
+---
+ 
+ <p>
+  <img width="250" align='left' src="https://github.com/Spratham72/Spratham72/blob/main/img/ubuy.jpg?raw=true">
+</p>
+ 
+### Clone of Smallcases
+
+A web application to invest in stocks.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+#### Features 
+- Homepage
+- Discover page' to check the latest and popular stocks
+- Stock Display (full information of a particular stock)
+- Sorting stocks according to price, level of risk associated, and investmentstrategies
+- Users may create small cases of their favorite stocks and invest in them ingroups
+- Billing page
 
  ---
-
 

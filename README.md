@@ -45,10 +45,10 @@ I am Full-Stack Web Developer.  I have a passion for learning and sharing my kno
   ---
  
  <p>
-  <img width="250" align='left' src="https://61d72cf0b3c5ae6553f5c486--confident-leavitt-0b1ccf.netlify.app/index.html">
+  <img width="250" align='left' src="">
 </p>
  
-### <a href="https://smallcaseproject.herokuapp.com/home"> Clone of Ubuy </a>
+### <a href="https://61d72cf0b3c5ae6553f5c486--confident-leavitt-0b1ccf.netlify.app/index.html"> Clone of Ubuy </a>
 
 Ubuy is one of the best online shopping stores to offer a collection ofHandbags, Dresses, Cosmetics, Jewellery, Jeans, T-shirts, and Shoes.
 I have worked on this project during construct week at Masai School.

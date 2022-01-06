@@ -45,7 +45,7 @@ I am Full-Stack Web Developer.  I have a passion for learning and sharing my kno
   ---
  
  <p>
-  <img width="250" align='left' src="">
+  <img width="250" align='left' src="https://github.com/Spratham72/Spratham72/blob/main/img/ubuy.jpg?raw=true">
 </p>
  
 ### <a href="https://61d72cf0b3c5ae6553f5c486--confident-leavitt-0b1ccf.netlify.app/index.html"> Clone of Ubuy </a>

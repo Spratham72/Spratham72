@@ -1,6 +1,6 @@
 
-
-Hey there 👋, ### [PRATHAM SHARMA](https://prathamsharmaportfolio.netlify.app/#/home#project)
+ ### [PRATHAM SHARMA](https://prathamsharmaportfolio.netlify.app/#/home#project)
+Hey there 👋, <br/>
 I am Full-Stack Web Developer. You can read my development related blogs on [medium](https://medium.com/@spratham72/clone-of-smallcase-c68f0fc5c19a).  If you found value in something I have created, please feel free contact :-<br/>
 <img width="20px" src="https://github.com/Spratham72/Spratham72/blob/main/gmail.png?raw=true">  spratham72@gmail.com, <br/>
 <img width="20px" src="https://github.com/Spratham72/Spratham72/blob/main/linkdin.png?raw=true">  https://www.linkedin.com/in/pratham-sharma-4641b0207/, <br/>

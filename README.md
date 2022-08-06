@@ -39,7 +39,6 @@ I am Full-Stack Web Developer. You can read my development related blogs on [med
 ### <a href="https://61d72cf0b3c5ae6553f5c486--confident-leavitt-0b1ccf.netlify.app/index.html"> Clone of Ubuy </a>
 
 Ubuy is one of the best online shopping stores to offer a collection ofHandbags, Dresses, Cosmetics, Jewellery, Jeans, T-shirts, and Shoes.
-I have worked on this project during construct week at Masai School.
 <br/>
 <br/>
 <br/>
